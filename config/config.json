@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Primtec - Видеонаблюдение, автоматизация",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo_width": "60",
+    "logo_height": "48",
+    "logo_text": "Primtec"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Primtec",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Все для автоматизации Вашего бизнеса. 10 лет на рынке. Работаем комплексно, под ключ. Поддерживаем на всех этапах."
+  },
+
+  "metadata": {
+    "meta_author": "Primtec",
+    "meta_image": "",
+    "meta_description": "Primtec - Автоматизаия Бизнеса"
+  },
+
+  "cities": [
+    "Находка",
+    "Владивосток"
+  ]
+}
