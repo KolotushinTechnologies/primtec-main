@@ -157,7 +157,7 @@ const Home = ({ frontmatter, postIndex, posts, currentPage, pagination, nameCity
               }}
             >
               <div className="">
-                <p className="mt-3 text-black">What's App</p>
+                <p className="mt-3 text-black">What&apos;s App</p>
               </div>
             </div>
             <div
